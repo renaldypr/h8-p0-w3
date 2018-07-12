@@ -1,3 +1,5 @@
+// by Renaldy Pratama
+
 function targetTerdekat(arr) {
   var i = 0;
   var panjangArr = arr.length;
